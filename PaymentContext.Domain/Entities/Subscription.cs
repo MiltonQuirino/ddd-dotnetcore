@@ -2,10 +2,10 @@ namespace PaymentContext.Domain.Entities
 {
     public class Subscription
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Document { get; set; }
-        public string Email { get; set; }
-
+        public DateTime CreateDate { get; set; }
+        public DateTime LastUpdateDate { get; set; }
+        public DateTime? ExpireDate { get; set; }
+        public bool Active { get; set; }
+        public List<Payment> Payments { get; set; }
     }
 }
