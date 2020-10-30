@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ravaxxvs+TPXyI9OLbeXFWMUkRCdqUQk1oDgMnNsJndgmXVmWoUXzw5ytgT3eKCy30yI5xVMhpufTUSwk0pd+A==",
+  "dgSpecHash": "7stUk1+vdX3T2lhDJNRANlcI/ZRUNFbamv9TpFOUD2Got70MLZ7fQvW9k0YmcjlBxERYXHYsj5WzfAmmCVsGbw==",
   "success": true,
   "projectFilePath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Tests/PaymentContext.Tests.csproj",
   "expectedPackageFiles": [

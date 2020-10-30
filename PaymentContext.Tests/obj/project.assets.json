@@ -59,11 +59,24 @@
       "PaymentContext.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "PaymentContext.Shared": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PaymentContext.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/PaymentContext.Domain.dll": {}
+        }
+      },
+      "PaymentContext.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PaymentContext.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaymentContext.Shared.dll": {}
         }
       }
     }
@@ -432,6 +445,11 @@
       "type": "project",
       "path": "../PaymentContext.Domain/PaymentContext.Domain.csproj",
       "msbuildProject": "../PaymentContext.Domain/PaymentContext.Domain.csproj"
+    },
+    "PaymentContext.Shared/1.0.0": {
+      "type": "project",
+      "path": "../PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "msbuildProject": "../PaymentContext.Shared/PaymentContext.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {

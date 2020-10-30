@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Lw2YwGp878Rv5phrPZt5u1pbSCWRWFVzIeauwSguTO7t1R4rFYkKPFWA0R8WcE4jEUW3sP/Pidt49ns3C1P8HQ==",
+  "dgSpecHash": "m/ofEHUqJUPjWQAAwbKZOaBmkjYzLsWPtY685LVMn7NY5T3uAatQy50GxaklVaaVw1e6UVZbXU9QsJLZrkBn+w==",
   "success": true,
   "projectFilePath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Domain/PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
