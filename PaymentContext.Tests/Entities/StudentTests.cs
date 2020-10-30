@@ -7,9 +7,12 @@ namespace PaymentContext.Tests
     public class StudentTests
     {
         [TestMethod]
-        public void testMethod1()
+        public void addSubscribe()
         {
-            var student = new Student("MTN", "QRN", "4545454", "eu@gmaili.com");
+            // var subscription = new Subscription();
+            // var student = new Student("MTN", "QRN", "4545454", "eu@gmaili.com");
+            // student.AddSubscription(subscription);
+
 
         }
 
