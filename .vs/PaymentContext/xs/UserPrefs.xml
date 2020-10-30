@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E50944AF-DBEF-4FA6-AC82-539AEC7872D8}|Default">
+  <MonoDevelop.Ide.ItemProperties.PaymentContext.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaymentContext.Tests/Entities/StudentTests.cs">
+    <Files>
+      <File FileName="PaymentContext.Tests/Entities/StudentTests.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentContext" expanded="True">
+            <Node name="PaymentContext.Tests" expanded="True" selected="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PaymentContext" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

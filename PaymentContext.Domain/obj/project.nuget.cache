@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tDdzlkbsDn29vRj5xJI4X5aAN881Nxzhhw+/FiJgk1RZPLzoFIseeVeqwgqW8CJblf44D+1yjgKo9rBLB+sCSQ==",
+  "dgSpecHash": "Lw2YwGp878Rv5phrPZt5u1pbSCWRWFVzIeauwSguTO7t1R4rFYkKPFWA0R8WcE4jEUW3sP/Pidt49ns3C1P8HQ==",
   "success": true,
-  "projectFilePath": "/Users/miltonquirino/git/lab/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "projectFilePath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Domain/PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/miltonquirino/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/miltonquirino/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/milton/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/milton/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

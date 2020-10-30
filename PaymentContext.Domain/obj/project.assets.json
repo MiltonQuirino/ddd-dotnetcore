@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/miltonquirino/.nuget/packages/": {}
+    "/Users/milton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/miltonquirino/git/lab/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "projectUniqueName": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Domain/PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "/Users/miltonquirino/git/lab/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-      "packagesPath": "/Users/miltonquirino/.nuget/packages/",
-      "outputPath": "/Users/miltonquirino/git/lab/PaymentContext/PaymentContext.Domain/obj/",
+      "projectPath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "packagesPath": "/Users/milton/.nuget/packages/",
+      "outputPath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/miltonquirino/.nuget/NuGet/NuGet.Config"
+        "/Users/milton/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -231,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
       }
     }
   }
