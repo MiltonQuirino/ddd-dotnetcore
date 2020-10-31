@@ -17,7 +17,7 @@ namespace PaymentContext.Tests
             var name = new Name("Teste", "Teste");
             foreach (var not in name.Notifications)
             {
-                // not.Message;git
+                // not.Message;
             }
         }
 
