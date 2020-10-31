@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7stUk1+vdX3T2lhDJNRANlcI/ZRUNFbamv9TpFOUD2Got70MLZ7fQvW9k0YmcjlBxERYXHYsj5WzfAmmCVsGbw==",
+  "dgSpecHash": "Vi76VDrpQMD/jG++YfhWDcFV+8o519vvIuTtLVwAqZg8JejV5q3tXSfgFoyveMJgjPceitUgdJhoRPImTtULyw==",
   "success": true,
   "projectFilePath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Tests/PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/milton/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
+    "/Users/milton/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/Users/milton/.nuget/packages/microsoft.net.test.sdk/16.5.0/microsoft.net.test.sdk.16.5.0.nupkg.sha512",
     "/Users/milton/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/milton/.nuget/packages/mstest.testadapter/2.1.0/mstest.testadapter.2.1.0.nupkg.sha512",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c28/JWdvCD4tDKOJ7oJINLM2gVlMLe1eCj9VOtYxAVwlAeaCC8ZdFjtd7UGX78jU6PbTYAqHFPAf1KKwTljiFg==",
+  "dgSpecHash": "9Rez+Gf7n8XHCQVf/1cybw+UV2o+jdIIp7gJpT4wq5TbobURczqLybuuM09qUww6vjDEfsVdgGzv7dldtf26/g==",
   "success": true,
   "projectFilePath": "/Users/milton/git/lab/ddd-dotnetcore/PaymentContext.Shared/PaymentContext.Shared.csproj",
   "expectedPackageFiles": [
+    "/Users/milton/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/Users/milton/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/milton/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
