@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Domain", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Tests", "PaymentContext.Tests\PaymentContext.Tests.csproj", "{E50944AF-DBEF-4FA6-AC82-539AEC7872D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Shared", "PaymentContext.Shared\PaymentContext.Shared.csproj", "{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{E50944AF-DBEF-4FA6-AC82-539AEC7872D8}.Release|x64.Build.0 = Release|Any CPU
 		{E50944AF-DBEF-4FA6-AC82-539AEC7872D8}.Release|x86.ActiveCfg = Release|Any CPU
 		{E50944AF-DBEF-4FA6-AC82-539AEC7872D8}.Release|x86.Build.0 = Release|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Debug|x64.Build.0 = Debug|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Debug|x86.Build.0 = Debug|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Release|x64.ActiveCfg = Release|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Release|x64.Build.0 = Release|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Release|x86.ActiveCfg = Release|Any CPU
+		{B2E3F15C-2366-4E0A-9E7B-051C0B420FDE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
